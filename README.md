@@ -1,2 +1,4 @@
 # simple-cnn-with-mnist-data
-learning convolutional neural networks with mnist data
+## Learning convolutional neural networks with mnist data.
+1.Using tensorflow,numpy,matplotlib.
+
